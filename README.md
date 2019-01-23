@@ -8,5 +8,4 @@ Time 2 speak some real language lads! 😀
 ```python
 	text = input("This boy is absolutely insane!")
 	slangify(text) // dis boy is total bonkers!
-}
 ```
